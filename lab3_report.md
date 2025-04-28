@@ -1,3 +1,4 @@
+University: ITMO University Faculty: FICT Course: Cloud platforms as the basis of technology entrepreneurship ADD link Year: 2025/2026 Group: OPOTPICT2-1 Author: Zaykina Aleksandra Lab: Lab3 Date of create: 28.04.2025 Date of finished: 28.04.2025
 Заходим в Cloud Storage и создаем свой Bucket
 <img width="539" alt="1" src="https://github.com/user-attachments/assets/08651a07-38b0-41fb-8a20-b41bd304cda1" />
 Загружаем в Bucket 3 изображения
