@@ -1,3 +1,13 @@
+University: [ITMO University](https://itmo.ru/ru/)  
+Faculty: [FICT](https://fict.itmo.ru)  
+Course: [Cloud platforms as the basis of technology entrepreneurship](https://) ADD link  
+Year: 2024/2025  
+Group: OPOTP  
+Author: Zaykina Aleksandra  
+Lab: Lab4  
+Date of create: 01.05.2025  
+Date of finished: 02.05.2025
+
 # Отчет по лабораторной работе №4
 
 Разработка инфраструктуры MVP AI приложения
