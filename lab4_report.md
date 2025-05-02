@@ -5,6 +5,8 @@
 Цель работы:
 Создать прототип AI-приложения с базовой функциональностью, разработать архитектуру для трех этапов (начальный, тестирование партнерами, прод), подобрать инструменты и рассчитать экономическую модель.
 
+[Инфраструктура в Miro](https://miro.com/welcomeonboard/LzQrL3hrUTF1UVVhbWM2SEVjc200NVFBZE1JWG5RN2xqVWdwT1l5ZUJDaEdZRm5NVllrb2dTa0R0aExjT3g1Zk1vbHUxMmxZeHdzNHhZaTEwM0xJWDhWZ2xVclVSb1FOakVqRWovM0hJWHJGTmVwZUtDcjBYVFFoVnNIbnF5UTB0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=107140032850)
+
 Этапы разработки инфраструктуры
 ## Этап 1: Начальный этап (MVP)
 Архитектура:
@@ -18,9 +20,7 @@ Backend: Python + FastAPI
 
 ML-модель: ONNX Runtime
 
-Инфраструктура: Yandex Cloud Serverless Containers
-
-CI/CD: GitLab CI
+<img width="748" alt="1" src="https://github.com/user-attachments/assets/18f2bf8b-0e0a-4bb6-af15-41e4d7ad9b39" />
 
 Финансовые расчеты:
 
@@ -48,6 +48,8 @@ ML-модель: NVIDIA Triton Inference Server
 Мониторинг: Prometheus + Grafana
 
 CI/CD: GitLab Runner
+
+<img width="580" alt="2" src="https://github.com/user-attachments/assets/a66f81e6-2133-4c8e-8f74-a28a11927009" />
 
 Финансовые расчеты:
 
@@ -77,6 +79,8 @@ ML-модель: TensorFlow Serving + GPU-кластер
 Мониторинг: ELK-стек
 
 CI/CD: ArgoCD
+
+<img width="617" alt="3" src="https://github.com/user-attachments/assets/687d04f1-6174-4883-a98b-cd68350a9b74" />
 
 Финансовые расчеты:
 
