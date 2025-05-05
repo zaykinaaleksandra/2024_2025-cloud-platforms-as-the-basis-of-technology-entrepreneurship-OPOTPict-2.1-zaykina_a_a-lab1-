@@ -34,9 +34,8 @@ GitLab CI и ArgoCD автоматически развертывают обно
 Система масштабируется при росте заказов (например, вечером или в выходные).  
   
 5. Финансовые расчет затрат  
-![2025-05-05_19-13-02](<img width="449" alt="exam" src="https://github.com/user-attachments/assets/ab0d6eef-b4a1-4e95-af31-1ec31c35bbe3" />
-)  
-  
+<img width="449" alt="image" src="https://github.com/user-attachments/assets/8893986c-60e0-424d-8bed-ebcfd26d0d68" />
+
 6. Схема работы сервиса  
 ![lab4 - Frame 1](https://github.com/user-attachments/assets/a0ed12f3-cddc-4360-9358-88833e3f7382)  
 
