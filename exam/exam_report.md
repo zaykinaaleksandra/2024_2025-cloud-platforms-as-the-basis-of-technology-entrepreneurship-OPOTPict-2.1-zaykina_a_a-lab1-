@@ -1,3 +1,5 @@
+University: ITMO University Faculty: FICT Course: Cloud platforms as the basis of technology entrepreneurship ADD link Year: 2025/2026 Group: OPOTPICT2-1 Author: Zaykina Aleksandra Exam: 8 case Date of create: 05.05.2025 Date of finished: 05.05.2025
+
 ## Проект: FoodEx Delivery — Автоматизация доставки еды
   
 1. Цель проекта  
